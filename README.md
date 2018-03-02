@@ -25,5 +25,10 @@ There is no measure.
 ##  Sources
 
 - GitHub: https://github.com/plzaart/multicolored_timeline
-- Qlik Branch: 
+- Qlik Branch: http://branch.qlik.com/#!/project/5a9987d324c6aa484f158acf
 - Note please that this solution was created based on kai's project: https://github.com/kai/qlik-sense-timeline
+
+
+##  License
+
+MIT License
